@@ -37,6 +37,12 @@ I've started my software engineering studies with no knowledge about programming
 
 ## Experience
 
+### Teltonika Networks - C++ / Server developer
+
+_(2021-08-16 - now)_
+
+Began a journey as a junior C++ developer and currently working on a system side of [Remote Management System](https://rms.teltonika-networks.com/). 
+
 ### Visma Lietuva - Front-end Internship
 
 _(2020-02-02 - 2020-03-27)_
